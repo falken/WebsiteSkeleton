@@ -1,2 +1,2 @@
 # WebsiteSkeleton
-Skeleton for creating a simple website
+Skeleton for creating a simple website for beginners.
