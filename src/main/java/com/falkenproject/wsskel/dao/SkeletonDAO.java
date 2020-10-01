@@ -8,7 +8,7 @@ import org.skife.jdbi.v2.sqlobject.SqlQuery;
 import org.skife.jdbi.v2.sqlobject.customizers.Mapper;
 
 import java.util.Collection;
-
+@Service       // Use @Service Annotation so that main class can detect this class
 public interface SkeletonDAO {
 
     class SkeletonObjectBeanMapper extends BeanMapper<SkeletonObject>{
